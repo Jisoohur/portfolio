@@ -55,49 +55,29 @@ params:
     profileMode:
           enabled: true
           title: Dr Jisoo Hur
-          subtitle: "I am a postdoctoral researcher at TUM School of Management, Technical University of Munich, Germany. My research focuses on inventor collaboration, design-technology integration, and patent analysis."
-          imageUrl: "picture.jpeg"
+          subtitle: "I am a postdoctoral researcher at the TUM School of Management, Technical University of Munich, Germany. My research focuses on inventor mobility and collaboration, regional knowledge spillovers, and the semantic proximity between scientific and technological knowledge. Using large-scale patent data, I apply advanced analytical methods—including topic modeling, large language models (LLMs), and other computational techniques—to investigate how knowledge flows and evolves across regions, technologies, and inventor networks."
+          imageUrl: "profile picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: jisoo.hur@tum.de
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: https://us04web.zoom.us/j/5969198999?pwd=0h373MdazdueeJicfubrLwnuq6Mvhu.1
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=IUY_S1QAAAAJ&hl=en&oi=ao
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/Jisoohur
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/jisoo-hur-10a07a24a/
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +85,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Jisoo Hur"
       icon: favicon.ico
       iconHeight: 18
 
