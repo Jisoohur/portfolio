@@ -31,7 +31,7 @@ params:
     description: "This website hosts Jisoo Hur's research papers, curriculum vitae, and contact information."
     author: Jisoo Hur
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "July 2025" # "January 2006"
+    DateFormat: "2025" # "January 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -54,8 +54,11 @@ params:
     profileMode:
           enabled: true
           title: Jisoo Hur
-          subtitle: "I am a postdoctoral researcher at the TUM School of Management, Technical University of Munich, Germany. My research focuses on inventor mobility and collaboration, regional knowledge spillovers, and the semantic proximity between scientific and technological knowledge. Using large-scale patent data, I apply advanced analytical methods—including topic modeling, large language models (LLMs), and other computational techniques—to investigate how knowledge flows and evolves across regions, technologies, and inventor networks."
-          imageUrl: "profile picture.png"
+          subtitle: |
+          I am a postdoctoral researcher at the TUM School of Management, Technical University of Munich, Germany. My research focuses on inventor mobility and collaboration, regional knowledge spillovers, and the semantic proximity between scientific and technological knowledge.
+
+          Using large-scale patent data, I apply advanced analytical methods—including topic modeling, large language models (LLMs), and other computational techniques—to investigate how knowledge flows and evolves across regions, technologies, and inventor networks.
+          imageUrl: "profile_picture.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -65,7 +68,9 @@ params:
               url: papers/
             - name: Teaching
               url: courses/
-
+            - name: Working Papers
+              url: books/
+              
     socialIcons:
         - name: Email
           url: jisoo.hur@tum.de
