@@ -98,5 +98,5 @@ markup:
         style: autumn 
     tableOfContents:
         endLevel: 2
-        ordered: falseordered: false
+        ordered: false
         startLevel: 2
