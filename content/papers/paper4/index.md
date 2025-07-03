@@ -1,6 +1,6 @@
 ---
 title: "The Role of Design Engineers: Evidence from Intra-firm Knowledge and Collaboration Networks" 
-date: 2024
+date: 2024-02-23
 tags: ["Design engineer", "Design innovation", "Design-technology integration", "Knowledge networks", "Collaboration networks"]
 author: ["Jisoo Hur", "Junseok Hwang", "Keungoui Kim"]
 journal: "PLOS ONE"

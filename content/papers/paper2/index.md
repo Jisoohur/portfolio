@@ -1,17 +1,17 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "AI Technology Specialization and National Competitiveness" 
+date: 2024
+tags: ["AI","Technology","National competitiveness","Artificial intelligence","Economic policy"]
+author: ["Youngsam Chun", "Jisoo Hur", "Junseok Hwang"]
+description: "This study investigates the factors influencing specialization in artificial intelligence (AI) technology, a critical element of national competitiveness. " 
+summary: "This study investigates the factors influencing specialization in artificial intelligence (AI) technology, a critical element of national competitiveness. " 
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "figure1.PNG"
+    alt: "Technological knowledge space"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301091"
+    Text: "PLOS ONE"
 
 ---
 
@@ -19,43 +19,44 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
++ [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301091)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This study investigates the factors influencing specialization in artificial intelligence (AI) technology, a critical element of national competitiveness. We utilized a revealed comparative advantage matrix to evaluate technological specialization across countries and employed a three-way fixed-effect panel logit model to examine the relationship between AI specialization and its determinants. The results indicate that the development of AI technology is strongly contingent on a nation’s pre-existing technological capabilities, which significantly affect AI specialization in emerging domains. Additionally, this study reveals that scientific knowledge has a positive impact on technological specialization, highlighting the necessity of integrating scientific advancements with technological sectors. Although complex technologies positively influence AI specialization, their effect is less pronounced than that of scientific knowledge. This suggests that in rapidly advancing fields, such as AI, incorporating new scientific knowledge into related industries may be more advantageous than simply advancing existing technologies to outpace competitors. This insight points nations toward enhancing AI competitiveness in new areas, emphasizing the vital importance of both scientific and technological capabilities, and the integration of novel AI knowledge with established sectors. This research offers critical guidance for policymakers in less technologically and economically developed countries, as these nations may not have the technological infrastructure required to foster AI specialization through increased technical complexity.
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure 1: Science-technology knowledge space
 
-![](paper2.png)
+![](figure1.PNG)
+
+##### Figure 2: Scientific knowledge space
+
+![](figure2.PNG)
+
+##### Figure 3: Technological knowledge space
+
+![](figure3.PNG)
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+AI technology specialization and national competitiveness
+Chun Y, Hur J, Hwang J (2024) AI technology specialization and national competitiveness. PLOS ONE 19(4): e0301091. https://doi.org/10.1371/journal.pone.0301091
 
 ```BibTeX
 @article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+author = {Youngsam Chun, Jisoo Hur, and Junseok Hwang},
+year = {2024},
+title ={AI technology specialization and national competitiveness},
+journal = {PLOS ONE},
+volume = {19},
+number = {4},
+pages = {e0301091},
+url = {https://doi.org/10.1371/journal.pone.0301091}}
 ```
 
----
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)

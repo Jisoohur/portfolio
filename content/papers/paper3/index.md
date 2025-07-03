@@ -1,17 +1,17 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "The Moderating Role of Design Innovation in the Relationship between Technology Complexity and Firm Performance" 
+date: 2024
+tags: ["Design innovation", "Technology complexity", "Firm performance", "Innovation management", "Strategic management"]
+author: ["Jisoo Hur", "Youngsam Chun", "Junseok Hwang", "Keungoui Kim"]
+description: "This study examines the relationship between technology complexity, design innovation, and firm performance to uncover the role of design innovation" 
+summary: "This study examines the relationship between technology complexity, design innovation, and firm performance to uncover the role of design innovation" 
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image: "figure1.png"
+    alt: "Marginal effects of COMPLEXITY on logROA conditional on DESIGN INNOVATION"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    URL: "https://doi.org/10.1080/09537325.2024.2336555"
+    Text: "Technology Analysis & Strategic Management"
 
 ---
 
@@ -19,34 +19,27 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](https://doi.org/10.1080/09537325.2024.2336555)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+In today’s highly competitive markets, firms can no longer ensure competitive advantage through the development of highly complex technologies or differentiation based solely on technological and functional factors. Simultaneously, there is growing recognition that design and aesthetic factors can contribute to firms’ competitive advantage. Hence, this study examines the relationship between technology complexity, design innovation, and firm performance to uncover the role of design innovation in exploiting complex technologies. Our main hypothesis is that design innovation positively moderates the negative effect that technology complexity has on firm performance. We used a unique dataset that aggregates all patent data published by US-headquartered publicly-traded firms to the parent company level. We combined this dataset with the Computat and PATSTAT databases based on their matching firm identifier. Focusing on 1,743 firms from 1980 to 2015, the results support our hypotheses. This study contributes to the resource-based view of firms by recognising design as a strategic resource that firms can utilise to gain a competitive advantage, especially in the presence of high technology complexity.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Hur, J., Chun, Y., Hwang, J., & Kim, K. (2024). The moderating role of design innovation in the relationship between technology complexity and firm performance. Technology Analysis & Strategic Management, 1–14. https://doi.org/10.1080/09537325.2024.2336555
 
 ```BibTeX
 @article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+author = {Jisoo Hur, Youngsam Chun, Junseok Hwang, and Keungoui Kim},
+year = {2024},
+title ={The moderating role of design innovation in the relationship between technology complexity and firm performance},
+journal = {Technology Analysis & Strategic Management},
+pages = {1--14}}
 ```
 
----
 
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
