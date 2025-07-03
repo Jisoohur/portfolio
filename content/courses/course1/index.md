@@ -36,7 +36,7 @@ Organizing the innovation process:
 + Integrating customers into the innovation process 
 + Measuring and controlling innovation
 
-## Main questions addressed in the course:
+##### Main questions addressed in the course:
 
 + Where does innovation come from?
 + What defines “innovation”?
